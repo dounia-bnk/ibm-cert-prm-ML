@@ -4,3 +4,4 @@ This repository contains all the projects that i've done so far for Machine Lear
 2- Supervised learning : Regression: Medical Cost
 3- Supervised learning : Classification: Maternal Risk
 4- Unsupervised Learning : Customer Segmentation
+5- Deep Learning: LSTM,GRU,1d Lstm for stock Forecasting
